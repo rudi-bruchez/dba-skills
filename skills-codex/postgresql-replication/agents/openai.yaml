@@ -1,0 +1,4 @@
+interface:
+  display_name: "PostgreSQL Replication"
+  short_description: "Diagnose lag, slot risk, and failover readiness"
+  default_prompt: "Assess PostgreSQL replication health, lag drivers, and switchover/failover readiness safely."

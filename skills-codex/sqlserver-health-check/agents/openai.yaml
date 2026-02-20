@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Server Health Check"
+  short_description: "Diagnose SQL Server health, incidents, and risk priorities"
+  default_prompt: "Run a SQL Server health check and produce severity-ranked findings with evidence and next actions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PostgreSQL Health Check"
+  short_description: "Diagnose PostgreSQL health, contention, and operational risk"
+  default_prompt: "Run a PostgreSQL health check and return severity-ranked findings with evidence and actions."

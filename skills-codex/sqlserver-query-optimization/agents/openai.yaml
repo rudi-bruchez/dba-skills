@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Server Query Optimization"
+  short_description: "Resolve slow SQL and regressions with plans and Query Store"
+  default_prompt: "Analyze a slow SQL Server query using Query Store and execution plans, then propose validated optimizations."

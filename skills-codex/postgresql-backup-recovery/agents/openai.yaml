@@ -1,0 +1,4 @@
+interface:
+  display_name: "PostgreSQL Backup & Recovery"
+  short_description: "Plan and validate PostgreSQL backup and PITR workflows"
+  default_prompt: "Design a PostgreSQL backup and recovery plan aligned to RPO/RTO with tested restore runbooks."

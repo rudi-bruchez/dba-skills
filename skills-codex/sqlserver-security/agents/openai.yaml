@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Server Security Audit"
+  short_description: "Audit permissions, encryption, and SQL Server hardening posture"
+  default_prompt: "Audit SQL Server security posture and propose a phased least-privilege hardening plan."

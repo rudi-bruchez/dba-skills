@@ -1,0 +1,4 @@
+interface:
+  display_name: "PostgreSQL Security Audit"
+  short_description: "Harden PostgreSQL auth, roles, and exposure controls"
+  default_prompt: "Audit PostgreSQL security and provide a phased hardening plan for auth and privileges."

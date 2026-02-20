@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Server High Availability"
+  short_description: "Assess AG health, lag, and failover readiness"
+  default_prompt: "Assess SQL Server Always On AG health and produce a failover-readiness plan with safeguards."

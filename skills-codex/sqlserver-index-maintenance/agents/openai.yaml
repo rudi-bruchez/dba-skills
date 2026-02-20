@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Server Index Maintenance"
+  short_description: "Apply workload-aware index maintenance and fragmentation strategy"
+  default_prompt: "Evaluate SQL Server index maintenance policy and recommend adaptive rebuild/reorganize actions."

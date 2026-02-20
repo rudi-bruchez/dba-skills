@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Server Backup & Recovery"
+  short_description: "Design and validate SQL Server backup and restore readiness"
+  default_prompt: "Review SQL Server backup coverage against RPO/RTO and produce a tested restore runbook."

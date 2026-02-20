@@ -1,0 +1,4 @@
+interface:
+  display_name: "PostgreSQL Query Optimization"
+  short_description: "Tune slow PostgreSQL queries with EXPLAIN-driven analysis"
+  default_prompt: "Analyze a slow PostgreSQL query with EXPLAIN (ANALYZE, BUFFERS) and propose validated optimizations."
